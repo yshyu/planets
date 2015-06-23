@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 It is so a planet!
 =======
 It's so a planet!
 >>>>>>> 359429fe9caed52f664d4d4312919ec4fdf9fc74
+=======
+It is so a planet!
+>>>>>>> 95ae771e23b78be1a3ce81cf6bfa2298b2c11f53
